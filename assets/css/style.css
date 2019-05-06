@@ -501,11 +501,12 @@ textarea.form-control {
 	   -moz-border-radius: 3px;
 			border-radius: 3px;
 	font-size: 14px;
-	color: rgba(255, 255, 255, .2);
+	color: white;
+	/* color: rgba(255, 255, 255, .2); */
 }
 
 .social-links a:hover {
-	border: 1px solid rgba(255, 255, 255, .5);
+	border: 3px solid rgba(255, 255, 255, .5);
 	color: rgba(255, 255, 255, .8);
 }
 
@@ -552,9 +553,9 @@ textarea.form-control {
 }
 
 .navbar-custom .navbar-brand {
-	font-weight: 700;
+	font-weight: 500;
 	font-size: 22px;
-    font-family: Lobster, cursive;
+    /*font-family: Lobster, cursive;*/
 }
 
 .navbar-custom .dropdown-menu {
